@@ -1,1 +1,1 @@
-# finos-aws
+# finops-aws
